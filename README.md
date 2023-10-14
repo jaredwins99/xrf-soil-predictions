@@ -31,7 +31,7 @@ Key findings from the exploratory analysis include spatial autocorrelation, corr
 ## Modeling
 - Gaussian processes (GPs) captured the clustered distribution of lead in soil. 
 - Modeling involved two kernels and five parameters, with each parameter coming from a prior distribution. 
-- Within the model is XRF samples' hypothesized dependence on soil lead level samples’.
+- Within the model is XRF samples' hypothesized dependence on soil lead level samples.
 
 ---
 
